@@ -1,2 +1,2 @@
-# legendary-funicular
-My personal repository
+# Hey! 😁
+I am currently a student learning GitHub!
