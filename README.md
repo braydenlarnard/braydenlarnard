@@ -1,2 +1,2 @@
 # Hey! 😁
-I am currently a Computer Science student learning GitHub!
+I am currently a Computer Science student at Loyola University Chicago.
